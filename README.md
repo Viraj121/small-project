@@ -1,4 +1,4 @@
-# js-project
+# Javascript-project
 Different javascript projects
 
  <b>Todo app preview</b> 👉👉 https://viraj121.github.io/TodoApp/ <br>
