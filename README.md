@@ -10,4 +10,13 @@ Different javascript projects
 
 # React-Project
 
-<b>https://reactone-taupe-nine.vercel.app/</br>
+<b>Landing page </b> 🚀 https://reactone-taupe-nine.vercel.app/</br>
+
+<b>Crytocurrenceny application </b> 🚀 https://crypto-app-weld-xi.vercel.app/</br>
+
+
+# Tailwind CSS
+
+<b>Dashboard toDesktop </b> 🚀 https://tailwind-landing-page-master.vercel.app//</br>
+
+
